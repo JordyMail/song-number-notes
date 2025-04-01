@@ -1,8 +1,15 @@
 # Not Angka Bold - Font
 
-Not Angka Bold is a custom font designed to display musical notation numbers clearly and boldly.
+Song Number Notes is a custom font designed to display musical notation numbers clearly.
 
 ## Installation
+
+1. download betwen mac or windows
+2. extract it on your computer 
+3. select all font type wathever their type of file
+4. right click, and click install
+5. just it...
+6. you can use it now
 
 ### macOS
 1. Open the folder where the `Not Angka Bold.TTF` file is located.
@@ -23,3 +30,6 @@ This font can be used in various applications that support custom fonts, includi
 - Adobe Illustrator
 - LibreOffice
 - and more
+
+# License
+not all of this file are mine, i just share it to make people easier to make music using "Number Notes"
